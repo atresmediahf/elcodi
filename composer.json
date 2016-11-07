@@ -62,11 +62,11 @@
         "doctrine/doctrine-cache-bundle": "^1.0",
         "mmoreram/simple-doctrine-mapping": "^1.0",
 
-        "sebastian/money": "^1.5",
+        "mathiasverraes/money": "^1.3",
         "knplabs/knp-gaufrette-bundle": "^0.1.7",
         "predis/predis": "^1.0.1",
         "ircmaxell/password-compat": "^1.0",
-        "guzzlehttp/guzzle": "^5.2",
+        "guzzlehttp/guzzle": "^6.0",
         "mmoreram/extractor": "^1.1.1",
         "goodby/csv": "^1.0"
     },
